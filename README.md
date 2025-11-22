@@ -36,7 +36,7 @@ Your Solution must pass the test: `npm run test` - run the tests (Hardhat)
 ### 3: Submission
 
 - Record a short [Loom video](https://www.loom.com) showing how it works, including the expected and actual behavior if you're testing.
-- Once you’ve completed the tasks, send the result to https://forms.gle/1E2z5713vGV9vhr4A.
+- Once you've completed the tasks, send the result to https://forms.gle/1E2z5713vGV9vhr4A.
 - Please make sure that your repository is **public** or share access if it's private.
 
 ### 4. Deadline
